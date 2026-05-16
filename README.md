@@ -17,14 +17,15 @@ This tool is designed to specify and locate the address of `g_CiEnabled`, which 
 ## Usage
 
 [Add usage instructions here]
+<img width="1452" height="711" alt="image" src="https://github.com/user-attachments/assets/713790fa-47cd-4934-89b0-7b81de8153b0" />
 
 ## Requirements
 
-[Add system requirements here]
+1- Visual Studio 2025 or 2026
+2- installed  Desktop Development with C++ in Windows Installer 
+3- Admin Access to Powershell or CMD
 
-## Installation
 
-[Add installation steps here]
 
 ## Warning
 
@@ -34,11 +35,6 @@ This tool is intended for **educational and authorized security research only**.
 
 ring0shady
 
-## License
-
-[Add license information here]
-
-## References
 
 - Driver Signature Enforcement (DSE)
 - Windows Kernel Security
