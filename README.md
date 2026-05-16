@@ -16,7 +16,7 @@ This tool is designed to specify and locate the address of `g_CiEnabled`, which 
 
 ## Usage
 
-[Add usage instructions here]
+
 <img width="1452" height="711" alt="image" src="https://github.com/user-attachments/assets/713790fa-47cd-4934-89b0-7b81de8153b0" />
 
 ## Requirements
